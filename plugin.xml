@@ -4,7 +4,7 @@
 -->
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="jaeger.Html5Video"
+    id="com.jaeger.Html5Video"
     version="1.2.1">
 
   <name>Html5Video</name>
