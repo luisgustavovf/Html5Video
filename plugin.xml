@@ -10,6 +10,7 @@
   <name>Html5Video</name>
   <author>jaeger25</author>
   <description>A Phonegap plugin that allows playback of local video files using html 5 video tags</description>
+  <license>MIT</license>
   <repo>https://github.com/jaeger25/Html5Video.git</repo>
   
   <js-module src="www/Html5Video.js" name="Html5Video">
